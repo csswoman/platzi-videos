@@ -3,11 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import HolaMundo from './components/HolaMundo';
+import Button from './components/Button';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <HolaMundo />
+    <Button text="Click 2" />
   </React.StrictMode>,
   document.getElementById('root')
 );
