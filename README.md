@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -70,4 +67,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 =======
 # platzi-videos
 Construcción de Platzi Videos con React.js 💙
->>>>>>> c3c1dcc32dc77e8dd0f5ee44d1089e0e9cc3f527
+
